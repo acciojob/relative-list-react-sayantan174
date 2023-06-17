@@ -5,11 +5,11 @@ const App = () => {
     <div id="main">
                {/* Do not remove the main div */}
                <ol id="relativeList">
-                <li key="relativeListItem1">ggs</li>
-                <li key="relativeListItem2">gdsgs</li>
-                <li key="relativeListItem3">dgs</li>
-                <li key="relativeListItem4">sdg</li> 
-                <li key="relativeListItem5">xcv</li>
+                <li id="relativeListItem2">gdsgs</li>
+                <li id="relativeListItem3">dgs</li>
+                <li id="relativeListItem1">ggs</li>
+                <li id="relativeListItem4">sdg</li> 
+                <li id="relativeListItem5">xcv</li>
                </ol>
     </div>
   )
