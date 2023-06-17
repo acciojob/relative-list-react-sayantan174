@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div id="main">
                {/* Do not remove the main div */}
-               <ol>
+               <ol key="relativeList">
                 <li key="relativeListItem1">ggs</li>
                 <li key="relativeListItem2">gdsgs</li>
                 <li key="relativeListItem3">dgs</li>
